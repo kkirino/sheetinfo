@@ -3,7 +3,6 @@ import argparse
 import xlrd
 import openpyxl
 import sys
-import errno
 
 
 def config_args():
